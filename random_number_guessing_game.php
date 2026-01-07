@@ -2,7 +2,6 @@
 $min = 1;
 $max = 10;
 $random_number = rand($min, $max);
-echo($random_number);
 
 $users_number = $_GET["user_number"];
 
